@@ -68,11 +68,11 @@ h1 {
 /* Light */
 .light {
     background: url("img/lfon.png") center / cover no-repeat;
-    color: #000;
+    color: #ffffff;
 }
 
 .light span {
-    background: rgba(0,0,0,0.1);
+    background: rgba(255,255,255,0.2);
 }
 
 /* Dark */

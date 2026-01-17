@@ -46,6 +46,7 @@ body {
     border-radius: 16px;
     text-decoration: none;
     transition: transform 0.2s, box-shadow 0.2s;
+    color: #ffffff;
 }
 
 .card img {
@@ -72,17 +73,22 @@ body {
 }
 
 /* Light — ПРИНУДИТЕЛЬНО БЕЛЫЙ */
-.light,
-.light * {
+.light {
     background: url("img/lfon.png") center / cover no-repeat;
-    color: #ffffff !important;
 }
 
+.light h2,
 .light span {
-    background: rgba(255,255,255,0.2);
+    color: #ffffff;
 }
 
 /* Dark */
 .dark {
     background: url("img/dfon.png") center / cover no-repeat;
+    color: #ffffff;
+}
+
+.dark h2,
+.dark span {
+    color: #ffffff;
 }

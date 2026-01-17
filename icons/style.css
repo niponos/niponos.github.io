@@ -71,9 +71,15 @@ h1 {
     color: #ffffff;
 }
 
+.light h2,
+.light span {
+    color: #ffffff;
+}
+
 .light span {
     background: rgba(255,255,255,0.2);
 }
+
 
 /* Dark */
 .dark {

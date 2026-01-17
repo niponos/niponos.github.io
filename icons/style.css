@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    background: url("NOS 7.png") center / cover no-repeat fixed;
+    background: url("img/nos7.png") center / cover no-repeat fixed;
     color: #ffffff;
     display: flex;
     justify-content: center;
@@ -67,7 +67,7 @@ h1 {
 
 /* Light */
 .light {
-    background: url("lfon.png") center / cover no-repeat;
+    background: url("img/lfon.png") center / cover no-repeat;
     color: #000;
 }
 
@@ -77,5 +77,5 @@ h1 {
 
 /* Dark */
 .dark {
-    background: url("dfon.png") center / cover no-repeat;
+    background: url("img/dfon.png") center / cover no-repeat;
 }

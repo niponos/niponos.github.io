@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    background: #0f1115;
+    background: url("NOS 7.png") center / cover no-repeat fixed;
     color: #ffffff;
     display: flex;
     justify-content: center;

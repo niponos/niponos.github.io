@@ -67,7 +67,7 @@ h1 {
 
 /* Light */
 .light {
-    background: linear-gradient(135deg, #f5f5f5, #dcdcdc);
+    background: url("lfon.png") center / cover no-repeat;
     color: #000;
 }
 
@@ -77,5 +77,5 @@ h1 {
 
 /* Dark */
 .dark {
-    background: linear-gradient(135deg, #1a1a1a, #000000);
+    background: url("dfon.png") center / cover no-repeat;
 }

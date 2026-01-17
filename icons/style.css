@@ -25,8 +25,9 @@ body {
 }
 
 .main-logo {
-    width: 280px;
+    width: 400px; /* новое увеличенное значение */
     margin-bottom: 20px;
+    height: auto; /* сохраняет пропорции */
 }
 
 .subtitle {

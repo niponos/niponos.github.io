@@ -85,3 +85,9 @@ h1 {
 .dark {
     background: url("img/dfon.png") center / cover no-repeat;
 }
+
+
+.light,
+.light * {
+    color: #ffffff !important;
+}
